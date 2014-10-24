@@ -14,9 +14,9 @@ include_once "qyhmessage.class.php";
 
 $options = array(
         'token'=>'mytoken',															//填写应用接口的Token
-        'encodingaeskey'=>'nACE9ktYns2DhjHyzHo1dD6PfqdQYbswVNkkrp7nwwg',				//填写加密用的EncodingAESKey
-		'corpid'=>'wxf67aba8f77aa5117',													////填写高级调用功能的corpid
-		'secret'=>'Oj6s8WaNbKvRjEXdvCEU41iGlRqtAT3GnQWUP2DIdPtBT5lDX36f0K3GREx9NJWw',	//填写高级调用功能的secret
+        'encodingaeskey'=>'encodingaeskey',											//填写加密用的EncodingAESKey
+		'corpid'=>'wx111111111111111111',											//填写高级调用功能的corpid
+		'secret'=>'secret',	//填写高级调用功能的secret
 		'agentid'=>'3',	
 		);
 
