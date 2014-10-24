@@ -2,10 +2,10 @@
 /**
  *	微信公众平台企业号验证SDK
  *  @QQ  94560716
- *  @link https://github.com/binsee/wechat-php-sdk
+ *  @link https://github.com/string2008/wechat
  *  @version 1.0
- *  usage:
- *       1.仅完成文本消息的解析和回复
+ *  
+ *       
  *
  */
 	 
