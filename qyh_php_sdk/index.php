@@ -14,6 +14,9 @@ include_once "qyhmessage.class.php";
 
 //option内面的内容必须替换成你自己企业号的相关信息
 //如有问题，请联系qq:94560716
+
+//secret在设置->权限管理组->新建管理组->开发者凭据
+//500错误：可能是设置中权限设置没有配置相关应用权限
 //http://www.baidu.com/github/ 别忘了最后'/'
 $options = array(
         'token'=>'94jwmLl8UvMf',						//填写应用接口的Token
