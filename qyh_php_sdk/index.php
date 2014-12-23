@@ -14,7 +14,7 @@ include_once "qyhmessage.class.php";
 
 //option内面的内容必须替换成你自己企业号的相关信息
 //如有问题，请联系qq:94560716
-//http://www.wechatee.com/github/
+//http://www.wechatee.com/github/ 可以用这个url及下面的code测试通过没有问题再贴换成您自己的信息
 $options = array(
         'token'=>'94jwmLl8UvMf',						//填写应用接口的Token
         'encodingaeskey'=>'MdL9cqieVM6okw9GsDr5NASsOm38oiMORzjDsWTH3NG',		//填写加密用的EncodingAESKey
